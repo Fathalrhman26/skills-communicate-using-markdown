@@ -10,5 +10,5 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ```
 
 - [x] also me trying second task
-- [] third task 🤗
-- [] this is myfirst task
+- [ ] third task 🤗
+- [ ] this is myfirst task
